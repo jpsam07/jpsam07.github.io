@@ -1,2 +1,2 @@
-# jpsam07.github.io
-A portfolio website showcasing various projects I had done hosted with GitHub pages
+# my-portfolio-website
+A portfolio website showcasing various projects I have done hosted on GitHub.
